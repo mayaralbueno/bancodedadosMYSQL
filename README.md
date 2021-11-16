@@ -7,6 +7,9 @@ representando informações sobre um domínio específico”, ou seja, sempre qu
 possível agrupar informações que se relacionam e tratam de um mesmo assunto,
 posso dizer que tenho um banco de dados.
 
+  <h2  align="center"> Tecnologia :<h2>
+
+
   <p align="center">
  <img  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
  </p>
