@@ -1,5 +1,5 @@
 # bancodedadosMYSQL
-Exercícios desenvolvido na Generation 
+Exercícios desenvolvido na Generation Brasil.
 
 
 🚧Segundo Korth, um banco de dados “é uma coleção de dados inter-relacionados,
